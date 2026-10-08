@@ -1,5 +1,6 @@
-select * from retail_sales;
---dAta cleaning
+..select * from retail_sales;
+--dAta cleanin
+..
 select * from retail_sales 
 where transactions_id is null
 or 
